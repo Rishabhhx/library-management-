@@ -1,6 +1,5 @@
 /* DATA FILE HANDLING PROJECT ON "LIBRARY MANAGEMENT SYSTEM"
-		      BY - YASH JAIN and RISHABH SHARMA
-		      CLASS- XII-A */
+		       */
 
 //------------------------------------------------------------------------
 //                HEADER FILES USED IN THE PROJECT
@@ -688,9 +687,7 @@ void intro()
     cout<<"PROJECT";
 
     gotoxy(15,17);
-    cout<<"NAME: YASH JAIN and RISHABH SHARMA";
-    gotoxy(16,18);
-    cout<<"CLASS: XII-A";
+    cout<<"NAME: RISHABH SHARMA";
     gotoxy(20,20);
     textcolor(WHITE+BLINK);             // textcolor used for blinking text
     cputs("Press any key to continue");
